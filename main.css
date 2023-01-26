@@ -28,14 +28,14 @@ TABLE CONTENT
 ***/
 @import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&family=Quicksand:wght@400;500;600;700&display=swap");
 /*import vendors*/
-@import url(vendors/normalize.css);
-@import url(vendors/bootstrap.min.css);
-@import url(vendors/uicons-regular-straight.css);
+@import url("https://andrewmung007.github.io/normalize.css");
+@import url("https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css");
+@import url("https://andrewmung007.github.io/uicons-regular-straight.css");
 /*import plugins*/
-@import url(plugins/magnific-popup.css);
-@import url(plugins/select2.min.css);
-@import url(plugins/slick.css);
-@import url(plugins/perfect-scrollbar.css);
+@import url("https://andrewmung007.github.io/magnific-popup.css");
+@import url("https://andrewmung007.github.io/select2.min.css");
+@import url("https://andrewmung007.github.io/slick.css");
+@import url("https://andrewmung007.github.io/perfect-scrollbar.css");
 
 /*RESET*/
 html,
